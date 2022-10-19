@@ -1,4 +1,6 @@
-# aula1
+# Aplicativo pergutas.
+
+Aprendendo a desenvolver um aplicativo de perguntas
 
 A new Flutter project.
 
